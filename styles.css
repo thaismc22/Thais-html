@@ -2,7 +2,7 @@ body {
 color: white;
 background: rgb(99, 6, 6);
 margin: 0px;
-font-family: "Chakra Petch", sans-serif;
+font-family: "ballet";
 margin-bottom: 100px;
 }
 header {
@@ -12,7 +12,7 @@ font-size: 32px;
 color: rgb(238, 14, 14);
 }
 .chamada {
-background: rgb(238, 5, 226);
+background: rgb(255, 77, 77);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
